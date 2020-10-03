@@ -1,6 +1,6 @@
 # passwordgenerator# Professional README Generator Starter Code
 
-[How to create a Professional README](./readme-guide.md)
+[Password Generator](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)]
 
   
 # **README MAKER**
@@ -20,22 +20,14 @@
 ---
 
 ## Description 
+[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/results.png)]
 This Password Generator app was created to help users create a destinct password based on specifc password requirments of your choosing.
-
-[![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)]
-
-**Click on the Image above to view video breakdown**
-
 
 ---
 
 ## How To Use
 [![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/message.png)]
 Click on the 'Generate Password' Button and follow the password prompts in order to choose all the specific fields for your password.
-
-
-[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/results.png)]
-Now you have a password generated. Enjoy!
 
 
 ---
