@@ -1,7 +1,6 @@
 # passwordgenerator# Professional README Generator Starter Code
 
-[Password Generator](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)]
-
+[![ReadMe Image](https://github.com/osbornroxas02/readMe-maker/blob/master/readmeImage.png)]
   
 # **README MAKER**
 
