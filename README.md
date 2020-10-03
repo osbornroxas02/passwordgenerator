@@ -1,9 +1,6 @@
-# Password Generator
+# **Password Generator**
 [![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/main.png)]
-  
-# **README MAKER**
-
-
+ 
 ---
 
 ## Table of Contents 
