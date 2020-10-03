@@ -1,5 +1,5 @@
 # **Password Generator**
-[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/main.png)]
+[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/main.png)
  
 ---
 
@@ -15,13 +15,15 @@
 ---
 
 ## Description 
-[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/results.png)]
+[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/results.png)
+
 This Password Generator app was created to help users create a destinct password based on specifc password requirments of your choosing.
 
 ---
 
 ## How To Use
-[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/message.png)]
+[![ReadMe Image](https://github.com/osbornroxas02/passwordgenerator/blob/master/message.png)
+
 Click on the 'Generate Password' Button and follow the password prompts in order to choose all the specific fields for your password.
 
 
